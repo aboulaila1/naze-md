@@ -1,7 +1,7 @@
 /**
-   * Create By Dika Ardnt.
+   * Create By ELIE.
    * Recode By Naze Dev
-   * Contact Me on wa.me/6282113821188
+   * Contact Me on wa.me/+96171845764
    * Follow https://github.com/nazedev
 */
 
@@ -19,11 +19,11 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6285875158363']
-global.ownernomer = "6285875158363"
-global.premium = ['6285875158363']
-global.packname = 'Sticker By'
-global.author = 'Naze Dev'
+global.owner = ['+96171845764']
+global.ownernomer = "96171845764"
+global.premium = ['96171845764']
+global.packname = 'Elie'
+global.author = 'Elie'
 global.sessionName = 'nazedev'  //jangan diganti bro nanti error
 global.jumlha = '999'
 global.jumhal = '100000000000000'
@@ -65,7 +65,7 @@ global.myytv = 'https://youtu.be/FAsL-Jy4qLc'
 global.mygc = "https://chat.whatsapp.com/Cp1OJenk6Q9D9vgLjLU558"
 
 // Engak Ngaruh, Belum Kepasang
-global.botname = 'NAZE BOT'
+global.botname = 'Elie'
 global.akulaku = 'Bot By Naze'
 global.ytname = 'YT NAZE' //Kalo Ngk Punya Yt Ngak Usah Di Ganti
 
